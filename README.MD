@@ -1,0 +1,1 @@
+# Program for checking if given is number is either odd or even.
